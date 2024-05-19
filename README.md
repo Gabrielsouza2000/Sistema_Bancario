@@ -19,6 +19,17 @@ Atualmente, há 1 desafio:
 Funções: sacar com limite de 3 saques (cada saque com um limite de 500 por vez), depositar e extrato.
 
 ---
+Atualização 19/05/2024:
+
+* As teclas do menu foram alteradas para números, proporcionando uma experiência de usuário mais intuitiva.
+
+* Adicionada a opção de criar usuário, exigindo CPF, nome e senha para registro.
+
+* Incluída uma mensagem para operações inválidas no menu principal, orientando os usuários a escolherem novamente.
+
+* As contas criadas agora são salvas até que o programa seja encerrado, garantindo a persistência dos dados entre execuções.
+
+---
 
 ## Sobre-mim
 
