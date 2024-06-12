@@ -7,17 +7,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielssanx/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gabrielsouza3641@gmail.com)
-
-## Futuras Atualizações
-
-- interface grafica
-- Salva o Saldo da conta
-
-
-
-
-Atualmente, há 1 desafio:
-
 # Sistema Bancário em Python
 
 Este projeto implementa um sistema básico de banco em Python. A aplicação permite a criação de clientes, contas bancárias e oferece funcionalidades como depósitos, saques e visualização de extratos. O sistema é baseado em orientação a objetos e inclui as principais classes: `Cliente`, `PessoaFisica`, `Conta`, `ContaCorrente`, `Historico` e `Transacao`.

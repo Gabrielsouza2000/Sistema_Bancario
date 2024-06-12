@@ -1,1 +1,2 @@
-[LOG] Conta Criada - Agência: 0001, Número: 1, Titular: Gabriel Souza Dos Santos, CPF: 48153726838, Saldo: R$ 0.00
+
+[LOG] Conta Criada - Agência: 0001, Número: 1, Titular: Gabrielssan, CPF: 12345678910, Saldo: R$ 0.00
