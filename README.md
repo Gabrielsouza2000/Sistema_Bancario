@@ -17,17 +17,20 @@ Um sistema bancário simples desenvolvido em Python utilizando a biblioteca Tkin
 1. **Cadastro de Clientes**
 Permite cadastrar novos clientes com nome, CPF e data de nascimento.
 
-2. **Criação de Contas**
+<img src="![01](https://github.com/user-attachments/assets/db44c9d2-d654-4b85-9bb2-b6b50dfc2098)
+" width="350">
+
+3. **Criação de Contas**
 Permite criar uma nova conta bancária para um cliente existente.
 A conta é associada a um CPF e possui um número de conta único e uma senha definida pelo cliente.
 
-3. **Depósitos**
+4. **Depósitos**
 Permite realizar depósitos em uma conta específica.
 
-4. **Saques**
+5. **Saques**
 Permite realizar saques de uma conta específica, após verificar a senha.
 
-5. **Extrato**
+6. **Extrato**
 Permite visualizar o extrato de uma conta, incluindo todas as transações realizadas.
 
 ## Uso da Interface
